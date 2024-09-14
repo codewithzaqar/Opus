@@ -1,6 +1,6 @@
 {
-  "name": "opus",
-  "version": "1.0.0",
+  "name": "Opus",
+  "version": "0.0.1",
   "description": "More of text-editor in the sense that it simply reads local files and parses the markdown",
   "main": "main.js",
   "scripts": {
