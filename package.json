@@ -1,0 +1,15 @@
+{
+  "name": "opus",
+  "version": "1.0.0",
+  "description": "More of text-editor in the sense that it simply reads local files and parses the markdown",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/codewithzaqar/Opus",
+  "author": "Zaqar Hakobyan",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.1.0"
+  }
+}
